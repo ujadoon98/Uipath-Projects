@@ -1,0 +1,13 @@
+# UiPath local/cache folders
+.local/
+.objects/
+.project/
+.storage/
+.settings/
+.templates/
+.entities/
+.tmh/
+.screenshots/
+
+# Autosave files
+*Autosaved*
